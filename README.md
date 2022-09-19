@@ -1,1 +1,1 @@
-# https://hudzg.github.io/the-band/#
+# https://hudzg.github.io/the-band/
